@@ -36,8 +36,3 @@ This is a Python-based application that predicts the number of calories burned d
 5. **Error Handling**:
    - If the user enters invalid data, error messages are displayed to guide the user.
 
-## Setup & Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/calorie-burn-prediction.git
